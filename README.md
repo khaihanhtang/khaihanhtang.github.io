@@ -36,7 +36,7 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 # My Published and Archived Works
 9\. San Ling, Chan Nam Ngo, Khai Hanh Tang, and Huaxiong Wang. _**Publicly Auditable Garbled Circuit**_. Archive. ([ePrint](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs))
 
-8\. Yimeng He, San Ling, Khai Hanh Tang, and Huaxiong Wang. _**Everlasting Fully Dynamic Group Signatures**_. In ACNS 2025. ([ePrint](https://ia.cr/2025/627))
+8\. Yimeng He, San Ling, Khai Hanh Tang, and Huaxiong Wang. _**Everlasting Fully Dynamic Group Signatures**_. In ACNS 2025. ([ePrint](https://ia.cr/2025/627), [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-95767-3_1))
 
 7\. San Ling, Khai Hanh Tang, Khu Vu, Huaxiong Wang, and Yingfei Yan. _**Succinct Non-Subsequence Arguments**_. In SCN 2024. ([ePrint](https://ia.cr/2024/1264), [proceedings](https://link.springer.com/chapter/10.1007/978-3-031-71070-4_2))
 
