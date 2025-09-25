@@ -7,31 +7,33 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 13 August 2025, I got 2 rejections from Asiacrypt 2025 ==> Asiacrypt 2025 ❌❌. 
+
 - On 30 April 2025, I finished all the work with respect to Grant FY24-1414-A from Ethereum Support Program ([report](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs)). Happy Vietnam's Reunification Day 🇻🇳!
 
-- On 27 April 2025, I lost all matches at the badminton tournament PinoySG Ultramix 2025 (mixed doubles). :x:
+- On 27 April 2025, I lost all matches at the badminton tournament PinoySG Ultramix 2025 (mixed doubles). ❌
 
-- On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> Crypto 2025 :x::x:
+- On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> Crypto 2025 ❌❌
 
-- On 29 March 2025, I got a rejection (rejected round 2) from ACM CCS 2025. Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 :x::x:
+- On 29 March 2025, I got a rejection (rejected round 2) from ACM CCS 2025. Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 ❌❌
 
-- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from ACNS 2025. ==> ACNS 2025 :white_check_mark:
+- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from ACNS 2025. ==> ACNS 2025 ✅
 
-- In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 :x::x:
+- In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 ❌❌
 
-- In December 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 :x:
+- In December 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 ❌
 
-- In October 2024, I got 2 medals from 2 badminton tournaments (hosted by VCS and Homies badminton groups in Singapore): 1 silver medal :2nd_place_medal: from VCS and 1 gold medal :medal_sports: (series B for mid-beginner players) from Homies.
+- In October 2024, I got 2 medals from 2 badminton tournaments (hosted by VCS and Homies badminton groups in Singapore): 1 silver medal 🥈 from VCS and 1 gold medal 🥇 (series B for mid-beginner players) from Homies.
 
-- On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 :x::x:
+- On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 ❌❌
 
-- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 :white_check_mark:
+- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 ✅
 
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) was approved and countersigned.
 
 - On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua, and Siew Hoon Lim from PayPal Inc., titled _**Threshold multi-party computation with must-have member**_ was granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
 
-- My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 :x:, Eurocrypt 2024 :x:, PKC 2024 :x::white_check_mark:, AsiaCCS 2024 :x:, and Crypto 2024 :x::x:.
+- My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 ❌, Eurocrypt 2024 ❌, PKC 2024 ❌✅, AsiaCCS 2024 ❌, and Crypto 2024 ❌❌.
 
 # My Published and Archived Works
 9\. San Ling, Chan Nam Ngo, Khai Hanh Tang, and Huaxiong Wang. _**Publicly Auditable Garbled Circuit**_. Archive. ([ePrint](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs))
