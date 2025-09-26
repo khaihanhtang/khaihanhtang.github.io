@@ -7,29 +7,29 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
-- On 26 September 2026, I got 1 rejection from IEEE CSF 2026 ==> CSF 2026 ❌.
+- On 26 September 2026, I got 1 rejection from [IEEE CSF 2026](https://csf2026.ieee-security.org/) ==> CSF 2026 ❌
 
-- On 13 August 2025, I got 2 rejections from Asiacrypt 2025 ==> Asiacrypt 2025 ❌❌. 
+- On 13 August 2025, I got 2 rejections from [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/) ==> Asiacrypt 2025 ❌❌
 
 - On 30 April 2025, I finished all the work with respect to Grant FY24-1414-A from Ethereum Support Program ([report](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs)). Happy Vietnam's Reunification Day 🇻🇳!
 
 - On 27 April 2025, I lost all matches at the badminton tournament PinoySG Ultramix 2025 (mixed doubles). ❌
 
-- On 8 April 2025, I got 2 early rejections from CRYPTO 2025. ==> Crypto 2025 ❌❌
+- On 8 April 2025, I got 2 early rejections from [Crypto 2025](https://crypto.iacr.org/2025/). ==> Crypto 2025 ❌❌
 
-- On 29 March 2025, I got a rejection (rejected round 2) from ACM CCS 2025. Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 ❌❌
+- On 29 March 2025, I got a rejection (rejected round 2) from [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 ❌❌
 
-- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from ACNS 2025. ==> ACNS 2025 ✅
+- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from [ACNS 2025](https://acns2025.fordaysec.de/). ==> ACNS 2025 ✅
 
-- In February 2025, I got 2 rejections from PKC 2025. ==> PKC 2025 ❌❌
+- In February 2025, I got 2 rejections from [PKC 2025](https://pkc.iacr.org/2025/). ==> PKC 2025 ❌❌
 
-- In December 2024, I got a rejection from Eurocrypt 2025. ==> Eurocrypt 2025 ❌
+- In December 2024, I got a rejection from [Eurocrypt 2025](https://eurocrypt.iacr.org/2025/). ==> Eurocrypt 2025 ❌
 
 - In October 2024, I got 2 medals from 2 badminton tournaments (hosted by VCS and Homies badminton groups in Singapore): 1 silver medal 🥈 from VCS and 1 gold medal 🥇 (series B for mid-beginner players) from Homies.
 
-- On 26 August 2024, I got 2 rejections from Asiacrypt 2024. One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 ❌❌
+- On 26 August 2024, I got 2 rejections from [Asiacrypt 2024](https://asiacrypt.iacr.org/2024/). One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 ❌❌
 
-- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at SCN 2024, to be organized in Amalfi, Italy. ==> SCN 2024 ✅
+- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at [SCN 2024](https://scn.unisa.it/scn24/), to be organized in Amalfi, Italy. ==> SCN 2024 ✅
 
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) was approved and countersigned.
 
