@@ -7,7 +7,9 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
-- On 26 September 2026, I got 1 rejection from [IEEE CSF 2026](https://csf2026.ieee-security.org/) ==> CSF 2026 ❌
+- On 4 October 2025, I lost the quarterfinal match in Mixed Doubles Series B and the third-place match in Men Doubles Series B at the Third Homies Badminton Tournament. ❌❌
+
+- On 26 September 2025, I got 1 rejection from [IEEE CSF 2026](https://csf2026.ieee-security.org/) ==> CSF 2026 ❌
 
 - On 13 August 2025, I got 2 rejections from [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/) ==> Asiacrypt 2025 ❌❌
 
