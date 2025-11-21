@@ -7,11 +7,13 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 21 November 2025, I got a rejection from [ACNS 2026](https://acns2026.github.io/) (Cycle 1). ==> ACNS 2026 ❌
+
 - On 4 October 2025, I lost the quarterfinal match in Mixed Doubles Series B and the third-place match in Men Doubles Series B at the Third Homies Badminton Tournament. ❌❌
 
-- On 26 September 2025, I got 1 rejection from [IEEE CSF 2026](https://csf2026.ieee-security.org/) ==> CSF 2026 ❌
+- On 26 September 2025, I got 1 rejection from [IEEE CSF 2026](https://csf2026.ieee-security.org/) (Summer Cycle). ==> CSF 2026 ❌
 
-- On 13 August 2025, I got 2 rejections from [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/) ==> Asiacrypt 2025 ❌❌
+- On 13 August 2025, I got 2 rejections from [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/). ==> Asiacrypt 2025 ❌❌
 
 - On 30 April 2025, I finished all the work with respect to Grant FY24-1414-A from Ethereum Support Program ([report](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs)). Happy Vietnam's Reunification Day 🇻🇳!
 
@@ -19,9 +21,9 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - On 8 April 2025, I got 2 early rejections from [Crypto 2025](https://crypto.iacr.org/2025/). ==> Crypto 2025 ❌❌
 
-- On 29 March 2025, I got a rejection (rejected round 2) from [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/). Earlier, I also got a rejection (rejected round 1) from this conference. ==> CCS 2025 ❌❌
+- On 29 March 2025, I got a rejection (rejected round 2) from [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/) (First Review Cycle). Earlier, I also got a rejection (rejected round 1) from this conference's cycle. ==> CCS 2025 ❌❌
 
-- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from [ACNS 2025](https://acns2025.fordaysec.de/). ==> ACNS 2025 ✅
+- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from [ACNS 2025](https://acns2025.fordaysec.de/) (Cycle 2). ==> ACNS 2025 ✅
 
 - In February 2025, I got 2 rejections from [PKC 2025](https://pkc.iacr.org/2025/). ==> PKC 2025 ❌❌
 
