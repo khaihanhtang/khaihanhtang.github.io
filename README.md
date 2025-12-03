@@ -6,7 +6,11 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
+PDMU ❤️
+
 # News
+- On 28 November 2025, I got a secret acceptance. ==> PDMU ✅
+
 - On 21 November 2025, I got a rejection from [ACNS 2026](https://acns2026.github.io/) (Cycle 1). ==> ACNS 2026 ❌
 
 - On 4 October 2025, I lost the quarterfinal match in Mixed Doubles Series B and the third-place match in Men Doubles Series B at the Third Homies Badminton Tournament. ❌❌
