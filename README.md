@@ -6,8 +6,6 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
-PDMU ❤️
-
 # News
 - On 28 November 2025, I got a secret acceptance. ==> PDMU ✅
 
