@@ -7,6 +7,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 17 December 2025, I got an early rejection from [PKC 2026](https://pkc.iacr.org/2026/). ==> PKC 2026 ❌
+
 - On 10 December 2025, I got a rejection from [CT-RSA 2026](https://conference.wsu.edu/ct-rsa-2026/). ==> CT-RSA 2026 ❌
 
 - On 28 November 2025, I got a secret acceptance. ==> PDMU ✅
