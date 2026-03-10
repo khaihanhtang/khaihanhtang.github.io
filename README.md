@@ -7,6 +7,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 10 March 2026 (11 March in Singapore time), my submission **A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time** was accepted at ESORICS 2026. Unfortunately, another submission of mine was rejected. ==> ESORICS 2026 ✅❌
+
 - On 17 December 2025, I got an early rejection from [PKC 2026](https://pkc.iacr.org/2026/). ==> PKC 2026 ❌
 
 - On 10 December 2025, I got a rejection from [CT-RSA 2026](https://conference.wsu.edu/ct-rsa-2026/). ==> CT-RSA 2026 ❌
