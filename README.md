@@ -50,7 +50,7 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 - My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 ❌, Eurocrypt 2024 ❌, PKC 2024 ❌✅, AsiaCCS 2024 ❌, and Crypto 2024 ❌❌.
 
 # My Published and Archived Works
-10\. Dario Fiore, San Ling, Khai Hanh Tang, Hong Hanh Tran, Huaxiong Wang, andd Yingfei Yan. _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_. Archive. ([ePrint](https://ia.cr/2026/008), accepted at ESORICS 2026)
+10\. Dario Fiore, San Ling, Khai Hanh Tang, Hong Hanh Tran, Huaxiong Wang, and Yingfei Yan. _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_. Archive. ([ePrint](https://ia.cr/2026/008), accepted at ESORICS 2026)
 
 9\. San Ling, Chan Nam Ngo, Khai Hanh Tang, and Huaxiong Wang. _**Publicly Auditable Garbled Circuit**_. Archive. ([ePrint](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs))
 
