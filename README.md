@@ -2,7 +2,7 @@ My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at N
 
 My PhD candidature was from January 2018 to July 2022 at Nanyang Technological University, Singapore, with the thesis title _**New and Improved Zero-Knowledge Argument Systems for Code-Based Cryptography**_ (see [DR-NTU](https://doi.org/10.32657/10356/160385)), under the supervision of *Prof.* [Huaxiong Wang](https://personal.ntu.edu.sg/hxwang/), *Prof.* [San Ling](https://personal.ntu.edu.sg/lingsan/), and *Dr.* [Khoa Nguyen](https://sites.google.com/view/khoantt/).  
 
-My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures.
+My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures. Related links: [ORCID ID](https://orcid.org/0009-0009-6790-4577), [Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=o2WGJjQAAAAJ).
 
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
