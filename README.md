@@ -7,7 +7,9 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
-- On 10 March 2026 (11 March in Singapore time), my submission _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_ was accepted at [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home). Unfortunately, another submission of mine was rejected. ==> ESORICS 2026 ✅❌
+- On 10 March 2026 (11 March in Singapore time), my submission _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_ was accepted at [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Rome, Italy). Unfortunately, another submission of mine was rejected. ==> ESORICS 2026 ✅❌
+
+- On 20 February 2026, I got an early rejection from [CCS 2026](https://www.sigsac.org/ccs/CCS2026/) (First Review Cycle). ==> CCS 2026 ❌
 
 - On 17 December 2025, I got an early rejection from [PKC 2026](https://pkc.iacr.org/2026/). ==> PKC 2026 ❌
 
@@ -19,7 +21,7 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - On 4 October 2025, I lost the quarterfinal match in Mixed Doubles Series B and the third-place match in Men Doubles Series B at the Third Homies Badminton Tournament. ❌❌
 
-- On 26 September 2025, I got 1 rejection from [IEEE CSF 2026](https://csf2026.ieee-security.org/) (Summer Cycle). ==> CSF 2026 ❌
+- On 26 September 2025, I got 1 rejection from [CSF 2026](https://csf2026.ieee-security.org/) (Summer Cycle). ==> CSF 2026 ❌
 
 - On 13 August 2025, I got 2 rejections from [Asiacrypt 2025](https://asiacrypt.iacr.org/2025/). ==> Asiacrypt 2025 ❌❌
 
@@ -29,9 +31,9 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - On 8 April 2025, I got 2 early rejections from [Crypto 2025](https://crypto.iacr.org/2025/). ==> Crypto 2025 ❌❌
 
-- On 29 March 2025, I got a rejection (rejected round 2) from [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/) (First Review Cycle). Earlier, I also got a rejection (rejected round 1) from this conference's cycle. ==> CCS 2025 ❌❌
+- On 29 March 2025, I got a rejection (rejected round 2) from [CCS 2025](https://www.sigsac.org/ccs/CCS2025/) (First Review Cycle). Earlier, I also got a rejection (rejected round 1) from this conference's cycle. ==> CCS 2025 ❌❌
 
-- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from [ACNS 2025](https://acns2025.fordaysec.de/) (Cycle 2). ==> ACNS 2025 ✅
+- On 17 March 2025, I got an acceptance, whose title is _**Everlasting Fully Dynamic Group Signatures**_, from Cycle 2 of [ACNS 2025](https://acns2025.fordaysec.de/) (Munich, Germany). ==> ACNS 2025 ✅
 
 - In February 2025, I got 2 rejections from [PKC 2025](https://pkc.iacr.org/2025/). ==> PKC 2025 ❌❌
 
@@ -41,13 +43,13 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - On 26 August 2024, I got 2 rejections from [Asiacrypt 2024](https://asiacrypt.iacr.org/2024/). One of these 2 rejections is an early rejection, in July 2024. ==> Asiacrypt 2024 ❌❌
 
-- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at [SCN 2024](https://scn.unisa.it/scn24/), to be organized in Amalfi, Italy. ==> SCN 2024 ✅
+- On 2 July 2024, my first SNARK paper titled _**Succinct Non-Subsequence Arguments**_ was accepted at [SCN 2024](https://scn.unisa.it/scn24/) (Amalfi, Italy). ==> SCN 2024 ✅
 
 - On 4 June 2024, my grant application _**End-to-End Publicly Verifiable Secure 2PC**_ to The Ethereum Foundation's Ecosystem Support Program (EF ESP) was approved and countersigned.
 
 - On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua, and Siew Hoon Lim from PayPal Inc., titled _**Threshold multi-party computation with must-have member**_ was granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
 
-- My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 ❌, Eurocrypt 2024 ❌, PKC 2024 ❌✅, AsiaCCS 2024 ❌, and Crypto 2024 ❌❌.
+- My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 ❌, Eurocrypt 2024 ❌, PKC 2024 ❌✅ (Sydney, Australia), AsiaCCS 2024 ❌, and Crypto 2024 ❌❌.
 
 # My Published and Archived Works
 10\. Dario Fiore, San Ling, Khai Hanh Tang, Hong Hanh Tran, Huaxiong Wang, and Yingfei Yan. _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_. Archive. ([ePrint](https://ia.cr/2026/008), accepted at ESORICS 2026)
