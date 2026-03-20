@@ -7,6 +7,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 20 March, my submission _**Sovereign Flexibly Accountable Functional Signatures**_ was accepted at Cycle 2 of [ACNS 2026](https://acns2026.github.io/index.html) (New York, US) ==> ACNS 2026 ✅
+
 - On 10 March 2026 (11 March in Singapore time), my submission _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_ was accepted at [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Rome, Italy). Unfortunately, another submission of mine was rejected. ==> ESORICS 2026 ✅❌
 
 - On 20 February 2026, I got an early rejection from [CCS 2026](https://www.sigsac.org/ccs/CCS2026/) (First Review Cycle). ==> CCS 2026 ❌
@@ -52,6 +54,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 - My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 ❌, Eurocrypt 2024 ❌, PKC 2024 ❌✅ (Sydney, Australia), AsiaCCS 2024 ❌, and Crypto 2024 ❌❌.
 
 # My Published and Archived Works
+11\. Yingfei Yan, Khai Hanh Tang, Hien Chu, Sherman S. M. Chow, San Ling, Huaxiong Wang, and Kai Zhang. _**Sovereign Flexibly Accountable Functional Signatures**_. (accepted at ACNS 2026, to appear)
+
 10\. Dario Fiore, San Ling, Khai Hanh Tang, Hong Hanh Tran, Huaxiong Wang, and Yingfei Yan. _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_. Archive. ([ePrint](https://ia.cr/2026/008), accepted at ESORICS 2026)
 
 9\. San Ling, Chan Nam Ngo, Khai Hanh Tang, and Huaxiong Wang. _**Publicly Auditable Garbled Circuit**_. Archive. ([ePrint](https://eprint.iacr.org/2025/772), [PoC source code](https://github.com/Crazy-Cryptographic-Buddies/pa-gc-rs))
