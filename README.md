@@ -7,7 +7,7 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
-- On 20 March, my submission _**Sovereign Flexibly Accountable Functional Signatures**_ was accepted at Cycle 2 of [ACNS 2026](https://acns2026.github.io/index.html) (New York, US) ==> ACNS 2026 ✅
+- On 20 March, my submission _**Sovereign Flexibly Accountable Functional Signatures**_ was accepted at Cycle 2 of [ACNS 2026](https://acns2026.github.io/index.html) (New York, United States) ==> ACNS 2026 ✅
 
 - On 10 March 2026 (11 March in Singapore time), my submission _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_ was accepted at [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Rome, Italy). Unfortunately, another submission of mine was rejected. ==> ESORICS 2026 ✅❌
 
