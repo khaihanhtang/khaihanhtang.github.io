@@ -7,6 +7,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 24 April 2026, I was appointed to the Program Committee of [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Spring cycle). 
+
 - On 20 March, my submission _**Sovereign Flexibly Accountable Functional Signatures**_ was accepted at Cycle 2 of [ACNS 2026](https://acns2026.github.io/index.html) (New York, United States). This submission faced several rejections from Asiacrypt 2023, PKC 2024, Crypto 2024, Asiacrypt 2024, PKC 2025, Crypto 2025, CSF 2026, and CT-RSA 2026. ==> ACNS 2026 ✅
 
 - On 10 March 2026 (11 March in Singapore time), my submission _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_ was accepted at [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Rome, Italy). Unfortunately, another submission of mine was rejected. ==> ESORICS 2026 ✅❌
@@ -52,6 +54,11 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 - On 14 May 2024, my patent application, with Hubert Andre LE VAN GONG, Shanshan Hua, and Siew Hoon Lim from PayPal Inc., titled _**Threshold multi-party computation with must-have member**_ was granted ([Google Patents](https://patents.google.com/patent/US11985254B2/en)).
 
 - My post-doctoral research career, from the end of 2022 till 12 May 2024, failed and achieved as follows: Asiacrypt 2023 ❌, Eurocrypt 2024 ❌, PKC 2024 ❌✅ (Sydney, Australia), AsiaCCS 2024 ❌, and Crypto 2024 ❌❌.
+
+# Conference Program Committees
+- 2026: ESORICS 2026
+- 2025: VCRIS 2025
+- 2024: VCRIS 2024
 
 # My Published and Archived Works
 11\. Yingfei Yan, Khai Hanh Tang, Hien Chu, Sherman S. M. Chow, San Ling, Huaxiong Wang, and Kai Zhang. _**Sovereign Flexibly Accountable Functional Signatures**_. ACNS 2026. (to appear)
