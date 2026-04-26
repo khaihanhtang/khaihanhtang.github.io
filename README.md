@@ -7,7 +7,7 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
-- On 24 April 2026, I was appointed to the Program Committee of [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Spring cycle). 
+- On 24 April 2026, I was appointed to the Program Committee of [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Spring Cycle). 
 
 - On 20 March, my submission _**Sovereign Flexibly Accountable Functional Signatures**_ was accepted at Cycle 2 of [ACNS 2026](https://acns2026.github.io/index.html) (New York, United States). This submission faced several rejections from Asiacrypt 2023, PKC 2024, Crypto 2024, Asiacrypt 2024, PKC 2025, Crypto 2025, CSF 2026, and CT-RSA 2026. ==> ACNS 2026 ✅
 
