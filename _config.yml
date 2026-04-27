@@ -7,3 +7,8 @@ author:
   pronouns: "he/him"
   employer: "Nanyang Technological University"
   email: "khaihanhtang@gmail.com, khaihanh.tang@ntu.edu.sg"
+
+# site setting
+staticman:
+  allowedFields          : ['name', 'email']
+  branch                 : "main" # "master", "gh-pages"
