@@ -63,7 +63,7 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 - 2024: VCRIS 2024
 
 # My Published and Archived Works
-11\. Yingfei Yan, Khai Hanh Tang, Hien Chu, Sherman S. M. Chow, San Ling, Huaxiong Wang, and Kai Zhang. _**Sovereign Flexibly Accountable Functional Signatures**_. ACNS 2026. (to appear)
+11\. Yingfei Yan, Khai Hanh Tang, Hien Chu, Sherman S. M. Chow, San Ling, Huaxiong Wang, and Kai Zhang. _**Sovereign Modal Signatures**_. ACNS 2026. (to appear)
 
 10\. Dario Fiore, San Ling, Khai Hanh Tang, Hong Hanh Tran, Huaxiong Wang, and Yingfei Yan. _**A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**_. ESORICS 2026. ([ePrint](https://ia.cr/2026/008), proceedings version to appear)
 
