@@ -1,12 +1,14 @@
 My name is Khai Hanh Tang. I am currently a research fellow in Cryptography at Nanyang Technological University, Singapore (from December 2022 till now).
 
-My PhD candidature was from January 2018 to July 2022 at Nanyang Technological University, Singapore, with the thesis title _**New and Improved Zero-Knowledge Argument Systems for Code-Based Cryptography**_ (see [DR-NTU](https://doi.org/10.32657/10356/160385)), under the supervision of *Prof.* [Huaxiong Wang](https://personal.ntu.edu.sg/hxwang/), *Prof.* [San Ling](https://personal.ntu.edu.sg/lingsan/), and *Dr.* [Khoa Nguyen](https://sites.google.com/view/khoantt/).  
+My PhD candidature was from January 2018 to July 2022 at Nanyang Technological University, Singapore, with the thesis title _**New and Improved Zero-Knowledge Argument Systems for Code-Based Cryptography**_ (see [DR-NTU](https://doi.org/10.32657/10356/160385)), under the supervision of *Prof.* [Huaxiong Wang](https://personal.ntu.edu.sg/hxwang/), *Prof.* [San Ling](https://personal.ntu.edu.sg/lingsan/), and *Prof.* [Khoa Nguyen](https://sites.google.com/view/khoantt/) (*Dr.* Khoa Nguyen at the time of my graduation).  
 
 My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, ...) and privacy-preserving signatures. Related links: [ORCID ID](https://orcid.org/0009-0009-6790-4577), [Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=o2WGJjQAAAAJ).
 
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹.
 
 # News
+- On 2 July, 2026, I will give a talk at [Workshop on Mathematics and Cryptography](https://documents.uow.edu.au/~hduong/workshop/), hosted by *Dr.* Le Van Luyen and *Dr.* Dung (Steven) Duong, in Ho Chi Minh City, Vietnam. My planned talk's topic is from my ESORICS 2026 accepted paper  **A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time**.
+
 - On 9 May 2026, I got a rejection from [SCN 2026](https://scn.unisa.it/scn26/). ==> SCN 2026 ❌
 
 - On 26 April 2026, I lost in the round of 16 at the PSG Ultramix 2026 (mixed doubles, Category E – mid-beginner).
