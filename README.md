@@ -10,6 +10,8 @@ Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 �
 
 - On 2 July 2026, I will give a talk at [Workshop on Mathematics and Cryptography](https://documents.uow.edu.au/~hduong/workshop/), hosted by *Dr.* Le Van Luyen and *Dr.* Dung (Steven) Duong, in Ho Chi Minh City, Vietnam. My planned talk's topic is from my paper  **A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time** (joint work with Dario Fiore, San Ling, Hong Hanh Tran, Huaxiong Wang, and Yingfei Yan - accepted at ESORICS 2026, preprint available on [ePrint](https://eprint.iacr.org/2026/008), and proceedings version to appear).
 
+- On 30 June 2026, I officially became a Singapore Permanent Resident 🇸🇬. 
+
 - On 23 June 2026 (Vietnam, Singapore time), I was appointed to the Program Committee of [VCRIS 2026](https://vcris.org) (the link can be changed later).
 
 - On 13-14 June 2026 (midnight, Singapore time), I received a rejection from [ESORICS 2026](https://sites.google.com/di.uniroma1.it/esorics2026/home) (Spring Cycle). ==> ESORICS 2026 ❌
