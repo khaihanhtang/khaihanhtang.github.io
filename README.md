@@ -7,6 +7,8 @@ My research interests include zero-knowledge proofs (zkSNARKs, code-based ZKP, .
 Countries I have ever been to are 🇻🇳 🇹🇭 🇵🇭 🇸🇬 🇲🇾 🇯🇵 🇮🇩 🇦🇺 🇫🇷 🇮🇹 🇻🇦 🇩🇪 🇧🇭 (transit) 🇦🇹 🇺🇸.
 
 # News
+- On 12 November 2026, I got a rejection from [FC 2027](https://ifca.ai/fc27/) ==> FC 2027 ❌
+
 - On 15 August 2026, I got a rejection from [Asiacrypt 2026](https://asiacrypt.iacr.org/2026/) ==> Asiacrypt 2026 ❌
 
 - On 2 July 2026, I will give a talk at [Workshop on Mathematics and Cryptography](https://documents.uow.edu.au/~hduong/workshop/), hosted by *Dr.* Le Van Luyen and *Dr.* Dung (Steven) Duong, in Ho Chi Minh City, Vietnam. My planned talk's topic is from my paper  **A SNARK for (Non-)Subsequences with Text-Sub-Linear Proving Time** (joint work with Dario Fiore, San Ling, Hong Hanh Tran, Huaxiong Wang, and Yingfei Yan - accepted at ESORICS 2026, preprint available on [ePrint](https://eprint.iacr.org/2026/008), and proceedings version to appear).
